@@ -10,7 +10,7 @@ Rain Rain Go Away is an automated wiper system developed for the Inter-Hostel Te
 - **Dynamic Speed Indicator**: A needle dynamically points to one of four LEDs on a semicircular speedometer.
 - **Microcontroller-Free and Fully Electrical Design**: A Hall sensor at 0° and 180° switches motor direction using a JK flip-flop in toggling mode, eliminating the need for mechanical components and microcontrollers.
 - **Low Power Consumption**: Operates entirely on a 5V rail, consuming only 800mW, significantly lower than competing designs (30W).
-- **Economical Design**: Entire system built under ₹2000.
+- **Economical Design**: Entire system built under ₹1999.
 
 ## System Architecture
 1. **Rain Detection**: A rain sensor outputs a voltage between 0-5V based on rain intensity.
